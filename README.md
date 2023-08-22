@@ -8,6 +8,7 @@ registry.gitlab.com/gitlab-org/build/cng/gitlab-webservice-ce
 registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce
 registry.gitlab.com/gitlab-org/build/cng/gitlab-pages
 registry.gitlab.com/gitlab-org/build/cng/gitaly
+registry.gitlab.com/gitlab-org/build/cng/gitlab-base
 
 asia-east1-docker.pkg.dev/gpnr19prj0015isb-extl/gpae19afr0001isb/
 
